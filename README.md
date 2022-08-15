@@ -1,5 +1,5 @@
 <h1 align="center">Sup 👋, I'm Angel Lopez</h1>
-<h3 align="center">Frontend developer, glad to see you around here!</h3>
+<h3 align="center">FullStack developer, glad to see you around here!</h3>
 
 - 🔭 I’m currently working on **SCC Falabella a billing software for a big company**
 
